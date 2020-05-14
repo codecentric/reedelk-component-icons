@@ -17,9 +17,9 @@
    id="SVGRoot"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="flow-control_try-catch.svg"
-   inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/runtime/runtime-commons/src/main/resources/com.reedelk.runtime.component.TryCatch.png"
-   inkscape:export-xdpi="96.010254"
-   inkscape:export-ydpi="96.010254">
+   inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/runtime/runtime-commons/src/main/resources/com.reedelk.runtime.component.TryCatch-icon.png"
+   inkscape:export-xdpi="20.802221"
+   inkscape:export-ydpi="20.802221">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.1989695"
-     inkscape:cx="27.327678"
+     inkscape:cx="-5.0970661"
      inkscape:cy="31.000404"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -408,7 +408,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <ellipse
-       style="fill:#2086e8;stroke:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#66666f;stroke:none;stroke-opacity:1;fill-opacity:1"
        id="path3738"
        cx="30.079659"
        cy="30.003204"

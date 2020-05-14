@@ -16,8 +16,8 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="flow-control_router.svg"
-   inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/runtime/runtime-commons/src/main/resources/com.reedelk.runtime.component.Router.png"
+   sodipodi:docname="module-core_join-with-delimiter.svg"
+   inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/module-core/src/main/resources/com.reedelk.core.component.JoinWithDelimiter.png"
    inkscape:export-xdpi="96.010254"
    inkscape:export-ydpi="96.010254">
   <sodipodi:namedview
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.1989695"
-     inkscape:cx="-26.992057"
-     inkscape:cy="28.689135"
+     inkscape:zoom="6.1989696"
+     inkscape:cx="-23.859217"
+     inkscape:cy="20.502481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1452"
-     inkscape:window-height="794"
-     inkscape:window-x="-13"
-     inkscape:window-y="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     inkscape:window-x="202"
+     inkscape:window-y="66"
      inkscape:window-maximized="0"
      inkscape:grid-bbox="true"
      showguides="false">
@@ -408,72 +408,78 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <ellipse
-       style="fill:#66666f;stroke:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#102131;stroke:none;stroke-opacity:1;fill-opacity:1"
        id="path3738"
        cx="30.079659"
        cy="30.003204"
        rx="30.07966"
        ry="29.996796"
-       inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/commons/runtime-components/src/main/resources/com/reedelk/runtime/component/com.reedelk.runtime.component.Router-icon.png"
-       inkscape:export-xdpi="20.802221"
-       inkscape:export-ydpi="20.802221" />
+       inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/commons/runtime-components/src/main/resources/com/reedelk/runtime/component/com.reedelk.runtime.component.Fork.png"
+       inkscape:export-xdpi="96.010254"
+       inkscape:export-ydpi="96.010254" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Diagonal"
-     style="display:inline">
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.73500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 14.0005,31 34.000501,16"
-       id="path1600"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.7348032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.7348032,1.7348032;stroke-opacity:1;stroke-dashoffset:0"
-       d="M 14.200403,29.600142 H 39.200404"
-       id="path1602"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.7348032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.7348032,1.7348032;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 12.399923,26.700595 37.399924,46.700596"
-       id="path1604"
-       inkscape:connector-curvature="0" />
-  </g>
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="circles">
-    <ellipse
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path2083"
-       cx="35.168423"
-       cy="-16.561546"
-       transform="scale(1,-1)"
-       rx="4.7468061"
-       ry="4.7468057" />
-    <ellipse
-       transform="scale(1,-1)"
-       cy="-29.822475"
-       cx="35.168423"
-       id="circle1606"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       rx="4.7468061"
-       ry="4.7468057" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       id="circle1608"
-       cx="35.168423"
-       cy="-43.083412"
-       transform="scale(1,-1)"
-       rx="4.7468061"
-       ry="4.7468057" />
-    <ellipse
-       transform="scale(1,-1)"
-       cy="-29.822479"
-       cx="14.325587"
-       id="circle1610"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       rx="4.7468061"
-       ry="4.7468057" />
+    <g
+       id="g4741"
+       transform="matrix(-1,0,0,1,57.02701,0)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1602"
+         d="M 14.200403,29.600142 H 39.200404"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.73500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g4730">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.73500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 14.0005,31 34.000501,16"
+           id="path1600"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.73500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 12.399923,26.700595 37.399924,46.700596"
+           id="path1604"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="path2083"
+           cx="35.168423"
+           cy="-16.561546"
+           transform="scale(1,-1)"
+           rx="4.7468061"
+           ry="4.7468057" />
+        <ellipse
+           transform="scale(1,-1)"
+           cy="-29.822475"
+           cx="35.168423"
+           id="circle1606"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           rx="4.7468061"
+           ry="4.7468057" />
+        <ellipse
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle1608"
+           cx="35.168423"
+           cy="-43.083412"
+           transform="scale(1,-1)"
+           rx="4.7468061"
+           ry="4.7468057" />
+        <ellipse
+           transform="scale(1,-1)"
+           cy="-29.822479"
+           cx="14.325587"
+           id="circle1610"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09556282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           rx="4.7468061"
+           ry="4.7468057" />
+      </g>
+    </g>
   </g>
 </svg>

@@ -28,14 +28,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0994848"
-     inkscape:cx="-47.703373"
+     inkscape:cx="-5.8087391"
      inkscape:cy="18.888243"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="756"
-     inkscape:window-x="-9"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:grid-bbox="true"
@@ -408,15 +408,15 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <ellipse
-       style="fill:#66666f;stroke:none;stroke-opacity:1;fill-opacity:0.94117647"
+       style="fill:#66666f;stroke:none;stroke-opacity:1;fill-opacity:1"
        id="path3738"
        cx="30.079659"
        cy="30.003204"
        rx="30.07966"
        ry="29.996796"
-       inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/commons/runtime-components/src/main/resources/com/reedelk/runtime/component/com.reedelk.runtime.component.Fork.png"
-       inkscape:export-xdpi="96.010254"
-       inkscape:export-ydpi="96.010254" />
+       inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/runtime/runtime-commons/src/main/resources/com.reedelk.runtime.component.Fork-icon.png"
+       inkscape:export-xdpi="20.802221"
+       inkscape:export-ydpi="20.802221" />
   </g>
   <g
      inkscape:groupmode="layer"

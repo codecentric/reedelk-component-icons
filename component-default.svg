@@ -16,10 +16,10 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="flow-control_flow-reference.svg"
-   inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/runtime/runtime-commons/src/main/resources/com.reedelk.runtime.component.FlowReference-icon.png"
-   inkscape:export-xdpi="20.802221"
-   inkscape:export-ydpi="20.802221">
+   sodipodi:docname="component-default.svg"
+   inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/reedelk-intellij-plugin/src/main/resources/images/ComponentDefault.png"
+   inkscape:export-xdpi="96.010254"
+   inkscape:export-ydpi="96.010254">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.5333332"
-     inkscape:cx="22.021834"
-     inkscape:cy="31.235833"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-26.382271"
+     inkscape:cy="13.197049"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="756"
-     inkscape:window-x="222"
-     inkscape:window-y="41"
+     inkscape:window-x="-3"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:grid-bbox="true"
      showguides="false">
@@ -212,61 +212,25 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <ellipse
-       style="fill:#66666f;stroke:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#102131;stroke:none;stroke-opacity:1;fill-opacity:1"
        id="path3738"
        cx="30.079659"
-       cy="30.003204"
+       cy="-30.003204"
        rx="30.07966"
-       ry="29.996796" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.08099174;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1907"
-       width="23"
-       height="34"
-       x="18.579659"
-       y="13.003204" />
-    <g
-       id="g1024"
-       transform="translate(0,0.53125)">
-      <circle
-         r="2.5"
-         cy="20.917267"
-         cx="24.962471"
-         id="path1923"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#faffff;stroke-opacity:1"
-         id="circle1925"
-         cx="24.845284"
-         cy="29.823517"
-         r="2.5" />
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
-         id="circle1927"
-         cx="24.962471"
-         cy="38.026642"
-         r="2.5" />
-      <circle
-         r="2.5"
-         cy="29.706329"
-         cx="35.743721"
-         id="circle1929"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2459"
-         d="m 27.579658,21.003204 6,9"
-         style="fill:none;stroke:#ffffff;stroke-width:0.54772258;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2461"
-         d="m 26.579658,30.003204 h 7"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2463"
-         d="m 27.579658,38.003204 6,-7"
-         style="fill:none;stroke:#ffffff;stroke-width:0.46770719;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+       ry="29.996796"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/Users/lorenzo/Desktop/esb-project/esb-intellij-plugin/src/main/resources/icons/default-component-icon.png"
+       inkscape:export-xdpi="20.802221"
+       inkscape:export-ydpi="20.802221" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Gear">
+    <path
+       id="path1108"
+       d="M 47.80245,32.16226 V 27.448926 C 45.394738,26.592885 43.873694,26.35226 43.108068,24.504551 v -0.0014 c -0.768543,-1.853542 0.145833,-3.112083 1.23521,-5.406041 L 41.010982,15.764792 C 38.73452,16.846875 37.462851,17.77 35.604932,17 h -0.0014 c -1.85066,-0.767083 -2.092744,-2.298333 -2.944411,-4.694375 H 27.94578 C 27.097028,14.69 26.853487,16.231458 25.0014,17 H 25 c -1.853544,0.77 -3.109171,-0.142917 -5.40605,-1.235208 l -3.332328,3.332291 c 1.08646,2.286667 2.005211,3.549584 1.23521,5.406042 -0.768543,1.853542 -2.310003,2.097083 -4.694382,2.945833 v 4.713334 c 2.380004,0.845833 3.925839,1.092291 4.694382,2.944375 0.772918,1.869583 -0.16625,3.15875 -1.23521,5.406041 l 3.332296,3.33375 c 2.277921,-1.083541 3.549589,-2.005208 5.40605,-1.235208 h 0.0014 c 1.852087,0.767083 2.09417,2.302708 2.94438,4.694375 h 4.713341 c 0.848751,-2.385833 1.093751,-3.922917 2.956045,-4.69875 h 0.0014 c 1.840419,-0.764167 3.091671,0.147292 5.392924,1.241042 l 3.332297,-3.33375 c -1.085002,-2.279375 -2.005211,-3.548125 -1.236669,-5.404584 0.768543,-1.853541 2.315838,-2.1 4.697299,-2.947291 z m -17.500026,3.476666 c -3.221463,0 -5.833342,-2.611875 -5.833342,-5.833333 0,-3.221458 2.611879,-5.833333 5.833342,-5.833333 3.221463,0 5.833342,2.611875 5.833342,5.833333 0,3.221458 -2.611879,5.833333 -5.833342,5.833333 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:1.45833445;fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>
